@@ -4,7 +4,7 @@ This is a simple REST API for managing person records.
 
 ## Setup Instructions
 
-1. Clone this repository.
+ Clone this repository.
 
 ```bash
 git clone https://github.com/JoelInyang/HNG-StageTwo.git
@@ -21,4 +21,3 @@ python manage.py migrate
 python manage.py runserver
 
 The API will be available at http://localhost:8000/api/persons/.
-he API will be available at http://localhost:8000/api/persons/.he API will be available at http://localhost:8000/api/persons/.
